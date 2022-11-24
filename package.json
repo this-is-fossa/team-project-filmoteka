@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://bifacial2.github.io/film-library",
+  "homepage": "https://this-is-fossa.github.io/team-project-filmoteka",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /film-library/"
+    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
   },
   "repository": {
     "type": "git",
